@@ -89,7 +89,7 @@
 	}
 </script>
 
-<style>
+<style scoped>
 	.home_container {
 		width: 100%;
 		height: 100%;
